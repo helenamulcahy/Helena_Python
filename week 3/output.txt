@@ -1,0 +1,3 @@
+Name:  Fred Bloggs
+Age:   34
+Grade: 23%
